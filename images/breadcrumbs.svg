@@ -1,0 +1,13 @@
+
+<svg class="breadcrumbs-custom__shape" version="1.1" xmlns="http://www.w3.org/2000/svg" x="0px" y="0px" width='3840px' height='1000px' viewbox='0 0 3840 1000' preserveAspectRatio="none">
+    <defs>
+        <link href="../css/style.css" type="text/css" rel="stylesheet"
+              xmlns="http://www.w3.org/1999/xhtml"/>
+        <linearGradient id="Gradient1" x1="0%" y1="0%" x2="100%" y2="50%">
+            <stop class="stop1" offset="20%" ></stop>
+            <stop class="stop2" offset="65%" ></stop>
+            <stop class="stop3" offset="100%" ></stop>
+        </linearGradient>
+    </defs>
+    <path fill="url(#Gradient1)" d="M1920,0.5H0v361h0c0,0,0.1,584.8,0,594c78,0,116.1,45,192,45          c76.9,0,113.5-45,192-45c76.9,0,118.4,45,192,45c76.8,0,115-45,192-45c73,0,115.1,45,192,45c76.7,0,113.6-45,192-45      c77.4,0,113.8,45,192,45c76.1,0,114.9-45,192-45c75.5,0,113.2,45,192,45c83.2,0,109.2-45,192-45c0-20.7,0-594,0-594h0V0.5z"></path>
+</svg>
